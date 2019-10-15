@@ -2,19 +2,19 @@
 
 Version 1.1
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvrepo/master/unity%20assets/sc%20shaders/11/pic/4.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/sc%20shaders/11/pic/4.jpg)
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvrepo/master/unity%20assets/sc%20shaders/11/pic/3.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/sc%20shaders/11/pic/2.jpg)
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvrepo/master/unity%20assets/sc%20shaders/11/pic/1.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/sc%20shaders/11/pic/1.jpg)
 
-------------------------------------
+-------------------------------------------------------------------
 
 ### Authors
-Designed by #NVJOB Nicholas Veselov | https://nvjob.pro | http://nvjob.dx.am | https://twitter.com/nvjob
+Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details
+MIT License - https://github.com/nvjob/NVJOB-Specular-Customizable-Shaders/blob/master/LICENSE
 
 ### Donate
-You can thank me by a voluntary donation. https://nvjob.pro/donations.html
+Help for this project - https://nvjob.github.io/donate
