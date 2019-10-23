@@ -1,4 +1,4 @@
-# #NVJOB Specular Customizable Shaders.
+# #NVJOB SCS
 
 Version 1.1
 
