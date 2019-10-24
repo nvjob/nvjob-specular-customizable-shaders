@@ -1,4 +1,4 @@
-# #NVJOB SCS
+# #NVJOB SC Shaders
 
 Version 1.1
 
