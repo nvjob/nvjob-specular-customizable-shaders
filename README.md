@@ -10,3 +10,6 @@
 **Authors:** [#NVJOB. Developer Nicholas Veselov. Разработчик Николай Веселов. Санкт-Петербург.](https://nvjob.github.io)
 
 **License:** MIT License. [Clarification of licenses](https://nvjob.github.io/mit-license).
+
+**🖤 Donate:** <br>
+[paypal.me/nvjob](https://paypal.me/nvjob)
